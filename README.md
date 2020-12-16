@@ -1,7 +1,7 @@
 # Card_Counting
 Objective : Victory of player when playing Blackjack
 
-Assumption : The not-opened card of dealer is 10. (cause the probability of 10 is the highest)
+Assumption : The not-opened first card of dealer is 10. (cause the probability of 10 is the highest)
 <br><br><br>
 
 <h3>Rule (detailed)</h3>
